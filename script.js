@@ -1,0 +1,1 @@
+const myfunc = () => {console.log('hello world');};
